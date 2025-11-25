@@ -1,9 +1,6 @@
 **Neural Machine Translation (English → Hindi)**
 
-Project for CS779(Statistical Natural Language Processing) at IIT Kanpur
-Implementation of an English-to-Hindi Neural Machine Translation system.
-
-Competition Results
+This project was implemented as part of the CS779: Statistical Natural Language Processing course at IIT Kanpur during my first semester of 2025.
 
 The system was evaluated in the CodaBench English–Hindi NMT Competition:
 
