@@ -1,6 +1,6 @@
 **Neural Machine Translation (English to Hindi and English to Bengali)**
 
-This project was implemented as part of the CS779: Statistical Natural Language Processing course at IIT Kanpur during my first semester of 2025.
+This project was implemented as part of the CS779: Statistical Natural Language Processing course at IIT Kanpur during 1st sememter of M Tech program, 2025.
 
 The system was evaluated in the CodaBench English–Hindi NMT Competition:
 
