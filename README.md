@@ -23,3 +23,5 @@ Model performance was evaluated using BLEU score:
 Training Phase BLEU: 0.165
 
 Test Phase BLEU: 0.172
+
+To know more about the project, read the project report file.
