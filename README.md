@@ -1,4 +1,4 @@
-**Neural Machine Translation (English → Hindi)**
+**Neural Machine Translation (English to Hindi and English to Bengali)**
 
 This project was implemented as part of the CS779: Statistical Natural Language Processing course at IIT Kanpur during my first semester of 2025.
 
@@ -16,7 +16,7 @@ We implement a 3-layer Transformer architecture with:
 
 GloVe embeddings for English
 
-FastText embeddings for Hindi
+FastText embeddings for Hindi and Bengali
 
 Model performance was evaluated using BLEU score:
 
